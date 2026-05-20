@@ -1,4 +1,8 @@
 <h1 align="center"> Hi, I'm Arpit Yadav!🙋🏻‍♂️</h1>
+<p align="center">
+  <img src="https://cdn.dribbble.com/userupload/42469692/file/original-5667f1b1861fb08fea2035c513bc2a44.gif" width="200" alt="Coding GIF" />
+</p>
+
 
 <h3 align="center"> Learning, building, and evolving everyday. </h3>
 <h2 align="center"> 𝐈'𝐦 𝐚 𝐯𝐞𝐫𝐬𝐚𝐭𝐢𝐥𝐞 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 & 𝐀𝐈 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭 </h2>
