@@ -1,3 +1,7 @@
+<p align="center">
+  <img
+    src="https://github.com/aasthaaa13/aasthaaa13/blob/main/Screenshot%202025-07-24%20042455.png" alt="Banner" />
+</p>
 <h1 align="center"> Hi, I'm Arpit Yadav!🙋🏻‍♂️</h1>
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif" width="200" alt="Coding GIF" />
