@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://github.com/aasthaaa13/aasthaaa13/blob/main/Screenshot%202025-07-24%20042455.png" alt="Banner" />
+    src="BANNER.png" alt="Banner" />
 </p>
 <h1 align="center"> Hi, I'm Arpit Yadav!🙋🏻‍♂️</h1>
 <p align="center">
