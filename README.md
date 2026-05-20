@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Arpit Yadav!🙋🏻‍♂️</h1>
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi_emggWbVPEArYmFneeF4yKZZVHKW-K2L9Q&s" width="200" alt="Coding GIF" />
+  <img src="https://assets-v2.lottiefiles.com/a/606e0492-1176-11ee-bc87-cb8832f2a8e9/d5kdJW9Ca7.gif" width="200" alt="Coding GIF" />
 </p>
 
 
