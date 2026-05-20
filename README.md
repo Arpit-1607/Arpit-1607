@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Arpit Yadav!🙋🏻‍♂️</h1>
 <p align="center">
-  <img src="https://cdn.dribbble.com/userupload/42469692/file/original-5667f1b1861fb08fea2035c513bc2a44.gif" width="200" alt="Coding GIF" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi_emggWbVPEArYmFneeF4yKZZVHKW-K2L9Q&s" width="200" alt="Coding GIF" />
 </p>
 
 
