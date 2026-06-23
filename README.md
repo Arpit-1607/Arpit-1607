@@ -22,3 +22,5 @@
 
 
 <img src="https://raw.githubusercontent.com/Arpit-1607/Arpit-1607/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Arpit-1607/Arpit-1607/output/github-snake-light.svg" alt="Snake animation" />
+<div align="center">
