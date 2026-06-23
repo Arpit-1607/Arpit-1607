@@ -6,7 +6,7 @@
 <p align="center">
 
  
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZoajI5ajlmc203OWJuNTc3cWx1c3F3d3Z5ZzdwYjFmdGloOGJvdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="300"/> <img src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif" width="400" alt="Coding GIF" /> <img src= "https://giphy.com/gifs/AllianceDAO-glitch-alliance-dao-5EOYACH9SWWA45b4Bp" width="300"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZoajI5ajlmc203OWJuNTc3cWx1c3F3d3Z5ZzdwYjFmdGloOGJvdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="300"/> <img src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif" width="400" alt="Coding GIF" /> <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/940af732-18f0-4a92-8b97-019c4898b7b0" />
 </p>
 
 
