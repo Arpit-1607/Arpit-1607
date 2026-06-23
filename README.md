@@ -4,12 +4,17 @@
 </p>
 <h1 align="center"> Hi, I'm Arpit Yadav!🙋🏻‍♂️</h1>
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif" width="200" alt="Coding GIF" />
+
+ 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZoajI5ajlmc203OWJuNTc3cWx1c3F3d3Z5ZzdwYjFmdGloOGJvdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="300"/> <img src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif" width="400" alt="Coding GIF" />
 </p>
 
 
-<h3 align="center"> Learning, building, and evolving everyday. </h3>
-<h2 align="center"> 𝐈'𝐦 𝐚 𝐯𝐞𝐫𝐬𝐚𝐭𝐢𝐥𝐞 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 & 𝐀𝐈 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭 </h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=%2336BCF7&center=true&vCenter=true&width=600&lines=AI+and+Data+Science+Enthusiast;Versatile+Full-Stack+Web+Developer;Versatile+Graphic+Designer" />
+</p>
+
+<h2 align="center"> Learning, building, and evolving everyday. </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
