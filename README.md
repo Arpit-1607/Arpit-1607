@@ -22,6 +22,45 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Arpit-1607&label=Profile%20views&color=0e75b6&style=flat" alt="Arpit-1607" /> </p>
 
+
+```javascript
+const arpit = {
+
+    languages: {
+        primary:     ["JavaScript", "TypeScript", "C++"],
+        secondary:   ["Python", "SQL"],
+
+    programming: {
+        frontend:    ["HTML5", "CSS3", "JavaScript", "React", "React Native", "Tailwind CSS", "Bootstrap"],
+        backend:     ["Node.js", "Express.js", "Firebase"],
+        databases:   ["MongoDB", "MySQL"],
+        devOps:      ["Git", "Google Cloud Platform"],
+        tools:       ["GitHub", "VS Code", "Figma", "Canva", "MATLAB"],
+        AI/ML:       ["Python", "NumPy", "Pandas", "Scikit-learn", "Jupyter Notebook", "Google Colab"]
+  },
+
+    interests:       ["Full Stack Development", "Machine Learning", "DSA", "Open-Source", "Research", "Graphic Designing"],
+
+    organizations: {
+
+        Graphic Designer: "IEEE PES SBC MP Chapter",
+
+        Graphic Designer: "Google Developers Group",
+        Internship: "Artificial Intelligence Intern at DecodeLabs",
+        Volunteer: "Team Scavengers"
+  },
+    
+    currentlyLearning: ["Authentication", "Scalable Architecture", "System Design", "Cloud Computing"],
+    openTo:            ["Internships", "Open Source", "Hackathons", "Collaborations", "Freelance"],
+
+    funFact:
+        "I like building scalable websites and apps inspired by open-innovation!👾🚀"
+  };
+
+```
+<br/>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aastha-pyasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aastha-pyasi" height="30" width="40" /></a>
