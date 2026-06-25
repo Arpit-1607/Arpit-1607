@@ -54,9 +54,7 @@ const arpit = {
     interests:       ["Full Stack Development", "Machine Learning", "DSA", "Open-Source", "Research", "Graphic Designing"],
 
     organizations: {
-
         Graphic Designer: "IEEE PES SBC MP Chapter",
-
         Graphic Designer: "Google Developers Group",
         Internship: "Artificial Intelligence Intern at DecodeLabs",
         Volunteer: "Team Scavengers"
