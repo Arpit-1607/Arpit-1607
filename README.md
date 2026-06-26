@@ -54,17 +54,25 @@ const arpit = {
     interests:       ["Full Stack Development", "Machine Learning", "DSA", "Open-Source", "Research", "Graphic Designing"],
 
     organizations: {
-        Graphic Designer: "IEEE PES SBC MP Chapter",
-        Graphic Designer: "Google Developers Group",
-        Internship: "Artificial Intelligence Intern at DecodeLabs",
-        Volunteer: "Team Scavengers"
+        "Internship": "Artificial Intelligence Intern at DecodeLabs (1 June 2026 - 1 July 2026)",
+        "Graphic Designer": "IEEE PES SBC MP Section (2025-Present)",
+        "Graphic Designer": "Google Developers Group (2025-Present)",
+        "Volunteer": "Team Scavengers (February 2026 - March 2026)"
   },
-    
+
+    hackathons: [
+       "HackOrbit 2025 Finalist: 36-hour National-Level Hackathon | Organized by MITS Gwalior | served as a team leader | one of the finalists to the judging round among           600+ teams across India after rigorous multi-round evaluation"
+
+       "Bharatiya Antariksha Hackathon (BAH 2025): National-Level Hacakthon | Organiszed by Isro | Served as a frontend developer"
+
+       "DevSprint-Leveraging the Power of AI: National-Level Hackathon | Conducted by Google Developer Groups on Campus, MITS Gwalior | Served as a team leader and worked          on backend "
+  ],
+      
     currentlyLearning: ["Authentication", "Scalable Architecture", "System Design", "Cloud Computing"],
     openTo:            ["Internships", "Open Source", "Hackathons", "Collaborations", "Freelance"],
 
     funFact:
-        "I like building scalable websites and apps inspired by open-innovation!👾🚀"
+       "I like building scalable websites and apps inspired by open-innovation!👾🚀"
   };
 
 ```
