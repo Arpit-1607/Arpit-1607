@@ -48,7 +48,7 @@ const arpit = {
         databases:   ["MongoDB", "MySQL"],
         devOps:      ["Git", "Google Cloud Platform"],
         tools:       ["GitHub", "VS Code", "Figma", "Canva", "MATLAB"],
-        AI/ML:       ["Python", "NumPy", "Pandas", "Scikit-learn", "Jupyter Notebook", "Google Colab"]
+        AI/ML:       ["Python", "NumPy", "Pandas", "Scikit-learn", "Jupyter Notebook", "Google Collab"]
   },
 
     interests:       ["Full Stack Development", "Machine Learning", "DSA", "Open-Source", "Research", "Graphic Designing"],
