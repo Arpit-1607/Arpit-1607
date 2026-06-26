@@ -61,11 +61,11 @@ const arpit = {
   },
 
     hackathons: [
-       "HackOrbit 2025 Finalist: 36-hour National-Level Hackathon | Organized by MITS Gwalior | served as a team leader | one of the finalists to the judging round among           600+ teams across India after rigorous multi-round evaluation"
+       "HackOrbit 2025 Finalist: 36-hour National-Level Hackathon | Organized by MITS Gwalior | served as a team leader | one of the finalists to the judging round among 600+ teams across India after rigorous multi-round evaluation"
 
        "Bharatiya Antariksha Hackathon (BAH 2025): National-Level Hacakthon | Organiszed by Isro | Served as a frontend developer"
 
-       "DevSprint-Leveraging the Power of AI: National-Level Hackathon | Conducted by Google Developer Groups on Campus, MITS Gwalior | Served as a team leader and worked          on backend "
+       "DevSprint-Leveraging the Power of AI: National-Level Hackathon | Conducted by Google Developer Groups on Campus, MITS Gwalior | Served as a team leader and worked on backend "
   ],
       
     currentlyLearning: ["Authentication", "Scalable Architecture", "System Design", "Cloud Computing"],
