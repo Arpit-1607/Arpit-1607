@@ -29,13 +29,15 @@
     <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="70" />
   </a>
   &nbsp;&nbsp;
-  
-
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="70" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="70" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="70"/>
 
 <h2 align="center"> Learning, building, and evolving everyday. </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Arpit-1607&label=Profile%20views&color=0e75b6&style=flat" alt="Arpit-1607" /> </p>
 
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="centre">
 <a href="mailto:arpityadav16072006@gmail.com">
