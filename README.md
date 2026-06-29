@@ -18,6 +18,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=%2336BCF7&center=true&vCenter=true&width=600&lines=AI+and+Data+Science+Enthusiast;Versatile+Full-Stack+Web+Developer;Versatile+Graphic+Designer" />
 </p>
 
+<!--linked in, gmail and discord links-->
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70" />
+  </a>
+  &nbsp;&nbsp;
+    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="70" />
+  </a>
+  &nbsp;&nbsp;
+    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="70" />
+  </a>
+  &nbsp;&nbsp;
+  
+
+
 <h2 align="center"> Learning, building, and evolving everyday. </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Arpit-1607&label=Profile%20views&color=0e75b6&style=flat" alt="Arpit-1607" /> </p>
