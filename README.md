@@ -49,6 +49,7 @@
 <img align="center" src="https://skillicons.dev/icons?i=github" height="30" width="40" /></a>
 <a href= "https://codolio.com/profile/arpit.16" target="blank"><img align="center" src="https://github.com/user-attachments/assets/69467cb8-946c-4a3a-af91-7da808fa7117" height="40" width="40" /></a>
 <a href="https://www.codechef.com/users/arpityadav2006" target="blank"><img align="center" src= "https://github.com/user-attachments/assets/96e86801-acc2-40a7-b78b-48066527afdb" height="40" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/profile/arpittt16 target="blank"><img align="center" src= "https://github.com/user-attachments/assets/d2330b2e-0531-4029-aab4-0f1ee49ab4b7" height="40" width="40" /></a>
 </p>
 
 
