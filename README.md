@@ -20,10 +20,7 @@
   <img src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif" width="325" height="300" alt="Coding GIF" />
 </p>
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=%2336BCF7&center=true&vCenter=true&width=600&lines=AI+and+Data+Science+Enthusiast;Versatile+Full-Stack+Web+Developer;Versatile+Graphic+Designer" />
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Arpit-1607&label=Profile%20views&color=0e75b6&style=flat" alt="Arpit-1607" /> </p>
 
 <!--linked in, gmail and discord links-->
 <div align="center">
@@ -42,7 +39,6 @@
 
 <h2 align="center"> Learning, building, and evolving everyday. </h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Arpit-1607&label=Profile%20views&color=0e75b6&style=flat" alt="Arpit-1607" /> </p>
 
 </div>
 <h3 align="left">Connect with me:</h3>
