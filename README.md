@@ -2,9 +2,16 @@
   <img
     src="BANNER.png" alt="Banner" />
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=1000&lines=Arpit+Yadav;AI+and+Data+Science+Enthusiast;Versatile+Full-Stack+Web+Developer;Graphic+Designer;Hackathon Enthusiast" />
+</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=29&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Hi,+I'm+Arpit+Yadav+!🙋🏻‍♂️;" />
+<img src="https://img.shields.io/badge/B.Tech-MAC-8B5FBF?style=flat-square&logo=graduation-cap&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Engineering_Student-India-9D4EDD?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Location-Gwalior,_India-77607D?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
 
 
